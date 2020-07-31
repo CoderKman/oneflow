@@ -16,7 +16,6 @@ limitations under the License.
 #include "oneflow/core/persistence/hadoop/hadoop_file_system.h"
 #include <mutex>
 #include "oneflow/core/common/str_util.h"
-#include "oneflow/core/persistence/windows/windows_file_system.h"
 
 #ifdef PLATFORM_WINDOWS
 
